@@ -32,3 +32,4 @@ USAID Biodiversity Jal Jangal Request for proposal.
 
 "DISTRICT" in ('BAITADI', 'BAJHANG', 'DARCHULA', 'HUMLA')
 
+Reference of districts : https://wwfasia.awsassets.panda.org/downloads/conservation_landscapes_of_nepal.pdf
