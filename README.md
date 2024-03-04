@@ -7,3 +7,7 @@ USAID Biodiversity Jal Jangal Request for proposal.
 - Karnali Conservation Landscape
 - Kailash Sacred Convervation Landscape
 - Terai Arc Convervation Landscape
+
+# Chitwan Annapurna Conservation Landscape
+
+"GaPa_NaPa" in ( 'Rupa' , 'Annapurna' , 'Modi' , 'Aandhikhola' , 'Phedikhola' , 'Rainas' , 'Bhanu' , 'Byas' , 'Chum Nubri' , 'Thori' , 'Nashong' , 'Narphu' )
