@@ -12,15 +12,23 @@ USAID Biodiversity Jal Jangal Request for proposal.
 
 "GaPa_NaPa" in ( 'Rupa' , 'Annapurna' , 'Modi' , 'Aandhikhola' , 'Phedikhola' , 'Rainas' , 'Bhanu' , 'Byas' , 'Chum Nubri' , 'Thori' , 'Nashong' , 'Narphu' )
 
+"DISTRICT" in ('ARGHAKHANCHI', 'BAGLUNG', 'CHITAWAN', 'DHADING', 'GORKHA', 'GULMI', 'KASKI', 'LAMJUNG', 'MAKWANPUR', 'MANANG', 'MUSTANG', 'MYAGDI', 'NAWALPARASI_E', 'NAWALPARASI_W', 'NUWAKOT', 'PALPA', 'PARBAT', 'RASUWA', 'SYANGJA', 'TANAHU')
+
 # Karnali Conservation Landscape
 
 "GaPa_NaPa" in ( 'Chhayanath Rara' , 'Soru' , 'Mugum Karmarong' , 'Kanakasundari' , 'Patrasi' , 'Aathabis' , 'Thantikandh' , 'Chamunda Bindrasaini' , 'Barahtal' , 'Panchpuri' , 'Chaukune')
+
+"DISTRICT" in ('ACHHAM' , 'BAJURA', 'DADELDHURA', 'DAILEKH', 'DOLPA', 'DOTI', 'JAJARKOT', 'JUMLA', 'KALIKOT', 'MUGU', 'RUKUM', 'SAIYAN', 'SURKHET')
 
 # Terai Arc Convervation Landscape
 
 "GaPa_NaPa" in ( 'Rapti' , 'Gadhawa' , 'Madhuwan' , 'Dhangadhi' , 'Laljhadi' , 'Krishnapur' , 'Alital' )
 
+"DISTRICT" in ('ARGHAKHANCHI', 'BANKE', 'BARA', 'BARDIYA', 'CHITAWAN', 'DANG', 'KAILALI', 'KANCHANPUR', 'KAPILBASTU', 'MAKWANPUR', 'NAWALPARASI_E', 'NAWALPARASI_W', 'PALPA', 'PARSA', 'RAUTAHAT', 'RUPANDEHI')
+
 # Kailash Sacred Convervation Landscape
 
 "GaPa_NaPa" in ( 'Lekam' , 'Marma' , 'Apihimal' , 'Mahakali' , 'Dasharathchanda' , 'Thalara' )
+
+"DISTRICT" in ('BAITADI', 'BAJHANG', 'DARCHULA', 'HUMLA')
 
